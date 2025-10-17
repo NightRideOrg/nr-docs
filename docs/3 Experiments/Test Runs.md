@@ -1,0 +1,5 @@
+- Route:
+- Conditions (day/night/rain):
+- Sensor set:
+- Issues observed:
+- Action items:

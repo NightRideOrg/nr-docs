@@ -1,0 +1,3 @@
+- 12 V input filters; TVS diodes; common-mode chokes near PoC injectors.
+- Cable routing away from ignition/alternator; clean star grounds.
+- Pre-scan: sniff tests; conducted & radiated; fix hot spots proactively.

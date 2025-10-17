@@ -1,0 +1,4 @@
+- ROS bag introspection; message frequencies; dropouts.
+- Latency histograms (P50/P95/P99).
+- Thermal logs: throttling events.
+- Correlate planner events with sensor availability.

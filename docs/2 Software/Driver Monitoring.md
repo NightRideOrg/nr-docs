@@ -1,0 +1,3 @@
+- Eye-gaze, blink, head pose; 15–30 FPS.
+- No face storage; ephemeral features only.
+- Gate any "assist" behaviors; warnings always allowed.

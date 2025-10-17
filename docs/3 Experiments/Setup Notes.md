@@ -1,0 +1,4 @@
+- Rigid mounting; vibration damping pads helpful for cams.
+- IMU near CG; align axes carefully; document offsets.
+- Timestamp sync test: static scene, compare moving object alignment across cams.
+- Always **record first**, build features from replay.

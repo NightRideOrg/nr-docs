@@ -1,0 +1,4 @@
+- **Intrinsics**: per cam with good lighting; save YAML.
+- **Extrinsics**: multi-cam rig calibrations; verify with reprojection errors.
+- **IMU alignment**: align to vehicle axes; gravity check; bias estimation.
+- **Birdseye**: solve homographies; validate with floor grid.

@@ -1,0 +1,7 @@
+- `/camera/front_wide`, `/front_tele`, `/mirror_left`, `/mirror_right`, `/rear`, `/dms`
+- `/perception`: lane segmentation, vehicle/motorcycle detection (TensorRT)
+- `/tracker`: Kalman/IMM/JPDA or DeepSORT
+- `/fusion`: IMU+GNSS+radar → object list in ego frame
+- `/planner`: gap assessment FSM, outputs alerts
+- `/hmi`: Qt bridge; overlays; metrics; touch/voice interactions
+- `/voice`: STT input → LLM → tool calls → TTS confirmations

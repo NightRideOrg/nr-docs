@@ -1,0 +1,4 @@
+- Hazards: missed detections, false positives, late alerts.
+- Safe state: degrade to warning-only.
+- Safety path: STM32 decides fail-safe on watchdog/power/temp/sync faults.
+- Traceability: requirement ↔ test evidence (bags, metrics).

@@ -1,0 +1,4 @@
+- Ego-motion: integrate IMU (200 Hz), correct with GNSS (1–10 Hz) and wheel speed (CAN).
+- Association: camera detections ↔ radar tracks via gating (Mahalanobis) and JPDA.
+- Output: unified object list {pos, vel, class, conf}.
+- Latency budget: <150 ms sensor→HMI (95th percentile).
